@@ -4,7 +4,10 @@
 
 ## 2. 把向量的1538维度作为计算特征
 
+
 ## 3. 计算特征之间的余弦值作为标尺
+
+<img width="1125" alt="Screenshot 2023-08-18 at 16 55 07" src="https://github.com/huqianghui/event_creation_by_title_cluster/assets/7360524/21d32436-3400-4317-a480-dad1308dcc6f">
 
 ## 4. 通过余弦值计算，或者 OPTICS算法等，得到非监督学习的簇集
 
