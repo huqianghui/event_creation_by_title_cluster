@@ -2,8 +2,11 @@
 
 ## 1。把新闻标题向量化
 
+<img width="933" alt="Screenshot 2023-08-18 at 16 57 33" src="https://github.com/huqianghui/event_creation_by_title_cluster/assets/7360524/3c428e11-fdd7-4e1b-8e7c-116ebeb01d93">
+
 ## 2. 把向量的1538维度作为计算特征
 
+<img width="1153" alt="Screenshot 2023-08-18 at 16 55 59" src="https://github.com/huqianghui/event_creation_by_title_cluster/assets/7360524/7a1dbe79-a1b4-4b8b-9b1d-302cf8233cda">
 
 ## 3. 计算特征之间的余弦值作为标尺
 
