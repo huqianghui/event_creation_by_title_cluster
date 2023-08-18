@@ -1,6 +1,6 @@
 # event_creation_by_title_cluster
 
-## 1。把新闻标题向量化
+## 1. 把新闻标题向量化
 
 <img width="933" alt="Screenshot 2023-08-18 at 16 57 33" src="https://github.com/huqianghui/event_creation_by_title_cluster/assets/7360524/3c428e11-fdd7-4e1b-8e7c-116ebeb01d93">
 
